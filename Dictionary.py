@@ -8,3 +8,5 @@ print("below are the values by iteration")
 #we can iterate through the loop in below way
 for k,v in classmates.items():
     print(k + v)
+
+print("this is all about the dictionary")
