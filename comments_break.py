@@ -13,7 +13,7 @@ print(34+46)
 
 for m in range(25):
     if m is magicnumber:
-        print("the magicnumber is %s",m)
+        print("the magic number is %s",m)
         #break the loop when the number is found and comeout of the loop
         break
     else:
