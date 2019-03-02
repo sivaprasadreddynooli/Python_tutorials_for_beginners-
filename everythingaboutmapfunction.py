@@ -32,6 +32,3 @@ m = [1,2,3]
 n = [4,5,6]
 new_taple = map(None,m,n)
 print(new_taple)
-
-
-#map()
