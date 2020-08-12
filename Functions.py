@@ -6,6 +6,9 @@ def beef():
 #this is the function with parameters
 def rupee_to_usd(irp):
     print(irp/68)
+    
+    
+    
 
 #we can invoke functions , only when we call them
 beef()
